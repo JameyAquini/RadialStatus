@@ -16,20 +16,20 @@ Toggle the theme ON in Vencord.
 
 Notes:
 
-[!NOTE]
+> [!NOTE]
 This theme only makes a small UI change to radialStatus. Nothing major will be affected.
 
-[!CAUTION]
+> [!CAUTION]
 Make sure your Vencord is up-to-date. Older versions might not support the theme fully.
 
-[!IMPORTANT]
+> [!IMPORTANT]
 Refresh Discord if the theme does not appear immediately after uploading.
 
-[!TIP]
+> [!TIP]
 You can tweak the .css file if you want to customize colors or sizing further.
 
 Credits
 
-Created by [Your Name/Handle]
+Created by [Jamey] 
 
 Inspired by clean, minimal UI design
