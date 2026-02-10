@@ -1,4 +1,4 @@
-# 🔘 RadialStatus
+# RadialStatus 🔘
 A Discord theme that changes the default Discord status into a radial indicator around your profile picture. Minimal, clean, and easy to use.
 
 > [!IMPORTANT]
