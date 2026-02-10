@@ -1,35 +1,15 @@
-# radialStatus Theme for Vencord
-
-A minimal UI tweak for radialStatus in Discord using Vencord. Subtle, clean, and created by me.
-
-Installation
-
-Download the .css file from this page.
-
-Open Discord with Vencord installed.
-
-Go to Vencord Settings → Themes → Open Theme Folder.
-
-Move the downloaded .css file into the folder.
-
-Toggle the theme ON in Vencord.
-
-Notes:
-
-> [!NOTE]
-This theme only makes a small UI change to radialStatus. Nothing major will be affected.
-
-> [!CAUTION]
-Make sure your Vencord is up-to-date. Older versions might not support the theme fully.
+# RadialStatus
+A Discord theme that changes the default Discord status into a radial indicator around your profile picture. Minimal, clean, and easy to use.
 
 > [!IMPORTANT]
-Refresh Discord if the theme does not appear immediately after uploading.
+Step-by-step installation:
 
-> [!TIP]
-You can tweak the .css file if you want to customize colors or sizing further.
+Download the .css theme file.
 
-Credits
+Make sure you have Vencord installed: https://vencord.dev/
 
-Created by [Jamey] 
+Open Discord and go to Vencord Settings → Themes → Open Theme Folder.
 
-Inspired by clean, minimal UI design
+Move the downloaded .css file into the theme folder.
+
+Back in Discord, toggle the theme ON to activate it.
